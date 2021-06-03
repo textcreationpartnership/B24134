@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Psonthophachia, or, A quintuple Rosie-crucian scourge for the due correction of that pseudo-chymist and scurrilous emperick Geo. Thomson being in part a vindication of the learned Society of Physitians / by J. Heydon.</title>
+            <author>Heydon, John, b. 1629.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24134</idno><idno type="EEBO-CITATION">9464085</idno>
+  <idno type="VID">204390</idno>
+  <idno type="EEBO-PROQUEST">2248505007</idno>
+  
+            <idno type="STC">Wing H1673</idno>
+            <idno type="OCLC">09464085</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1309:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Psonthophachia, or, A quintuple Rosie-crucian scourge for the due correction of that pseudo-chymist and scurrilous emperick Geo. Thomson being in part a vindication of the learned Society of Physitians / by J. Heydon.</title>
+                  <author>Heydon, John, b. 1629.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Thomson, George, fl. 1648-1679.</term>
+               <term type="topical_term">Rosicrucians.</term>
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204390:1"/>
+            <pb facs="tcp:204390:1"/>
+            <p>ΨΟΝ Θ ΟΝ Φ ΑΝχΊΑ▪ OR, A Quintuple Rosie-crucian SCOURGE For the due Correction of that Pseudo<g ref="char:EOLhyphen"/>chymist and Scurrilous Emperick, <hi>Geo. Thomson.</hi>
+            </p>
+            <p>Being in part a Vindication of the Learned Society of Physitians.</p>
+            <p>By <hi>J. Heydon</hi> Gent. <q xml:lang="grc">φιλονομὸσ</q>, A Servant of God, and Secreta<g ref="char:EOLhyphen"/>ry of Nature.</p>
+            <q xml:lang="grc">
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <bibl>Menand. Cyril. adv. Julian. lib. 7.</bibl>
+            </q>
+            <q xml:lang="lat">Dura nimis est ingenuae cum meretrice contestatio.</q>
+            <q>
+               <l>For Fools that Rave and Rage, not knowing why;</l>
+               <l>A <hi>SCOURGE</hi> is far more fit, then a <hi>REPLY!</hi>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed <hi>Anno Domini,</hi> 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204390:2"/>
+            <pb n="1" facs="tcp:204390:2"/>
+            <head>ΨΟΝ Θ ΟΝ Φ ΑΝχΊΑ▪ OR, A Quintuple Rosie-crucian Scourge, <hi>&amp;c.</hi>
+            </head>
+            <p>WIthout either Preface, Proeme or Exordium, my business at the present is to deal with one <hi>G. Thomson,</hi> a grand Empyrick and Pseudo-Chymist; and although I was not easily inclined to match my hate so low, and therefore have passed by his provoca<g ref="char:EOLhyphen"/>tions in his former inveterate and malicious Pamphlets, yet lest it should be said that no man durst become the Colledges Champion, and take this wild Boar by the Tusks, I was at length resolv'd (with Gods assistance) to chastise and correct his impudent and insolent attempts upon the Honour of that Learned Society, and other Learned Galenists and Chymists, of which venerable and vast number, I must acknowledge my self <hi>minimus.</hi>
+            </p>
+            <p>And indeed when I consider'd that this Son of the fifth of <hi>November,</hi> hath done no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing but made Squibs and Crackers, and great Noises; thereby taking occasion to ventilate his Spleen and Gall, he having no other way (it seems) left him to dispose of that black and hellish Furniture of his <hi>Hibernian</hi> Soul; (his feminine sufferer being long since departed, that principally used to share therein) I began to question some<g ref="char:EOLhyphen"/>times with my self, whether there were any need to acquaint the world with the impudence and folly of so worthless a fellow. But since he hath been pleased not only to speak proud words, and make great Brags; but to fall upon me also, by the final letter of my Christian name, and initiall of my Sirname; and having first abused me otherwise in his unjust pretence to Chy<g ref="char:EOLhyphen"/>mistry, <hi>viz.</hi> in pilfering what he glories in from my several works extant, and re-baptizing my Medicines into other names, and thence adopting them his own Bratts: whereas his dull brains never travell'd with such admirable and useful
+<pb n="2" facs="tcp:204390:3"/>discoveries; I having for many years last past been an Instru<g ref="char:EOLhyphen"/>cter of many Nobles and Peers not only of this, but other Na<g ref="char:EOLhyphen"/>tions, in the mysteries of Chymistry and the Hermetique Philo<g ref="char:EOLhyphen"/>sophy; of which the world, and my many elaborate Pieces pub<g ref="char:EOLhyphen"/>lished, are eminent and conspicuous Evidences. These things (I say) considered, I hold my self in point of Honour concern<g ref="char:EOLhyphen"/>ed to become my own Compurgator; although it be by the full anatomizing of this bold Brute in good manners, and Moss<g ref="char:EOLhyphen"/>trooper in true Chymistry.</p>
+            <p>Now whereas he pretends himself a Doctor in Physick, he must give me leave to deny it: and my Negation I will fortifie by the several Reasons and Arguments following.
+<list>
+                  <item>1. By his own acknowledgment he was but a Chyrurgions Prentice at the first; by which opportunity he conveniently became acquainted with a few conjuring terms, and hard words, which ignorant people believe can proceed from none but a Doctor! but I must tell them, every loud noise is not Thun<g ref="char:EOLhyphen"/>der; nor is a Chyrurgion a Doctor, although many (in favour of the Art, and for its dependency upon, and neer relation to, Learning) have given that respective Epithete to some of his Profession; neither did ever any ingenious Artist accept of that Title as his own merit, but as the respect of his Friend that af<g ref="char:EOLhyphen"/>forded it him, though Mr. <hi>Th.</hi> wiser then the wisest of them, arrogantly writes himself Doctor.</item>
+                  <item>2. If he be a Doctor, he must proceed so, either of Merit, or Grace; of Merit it cannot be, because he never was of proper standing for it, in an University; and if it was of Grace, let him tell us where it was? and when? and who it was that pre<g ref="char:EOLhyphen"/>sented him? and for what? and then we shall be able to judge of the matter better.</item>
+                  <item>3. It seems improbable, that he should receive such honour from any University; because they commonly prefer Persons meritorious; and sweat them to observe and preserve the ho<g ref="char:EOLhyphen"/>nour of Learning, and Learned men: But this man instead of that, makes it his main business to strike at the root of the one, and ruine of the other. <hi>Ergo,</hi> no true qualified Doctor.</item>
+                  <item>4. If he be a Doctor (as it appears he hath a months mind to be, by his writings) certainly he had such a creation, as an impudent Vintue: (who pretended himself a Preacher) had Or<g ref="char:EOLhyphen"/>dination;
+<pb n="3" facs="tcp:204390:3"/>
+                     <hi>viz.</hi> from a Captain of a Ship: who being a year or two accustomed to the profaning of the Pulpit, refused at last to take to his Profession again; deeming the said Captains Ordi<g ref="char:EOLhyphen"/>nation good enough; as without doubt it was, for so unsancti<g ref="char:EOLhyphen"/>fied a fellow. Indeed many such Hedge-Doctors and Hellish Preachers we have now adays; the first serving to glut the Grave with murthered carcases, the other to send Souls to Perdition.</item>
+               </list>
+            </p>
+            <p>But to pass by his Doctorship (for if he will needs be a Doctor, let him be one: I'll not trouble his Title, if he let but Me, and my Friends escape his Pills) I come in the next place to consider his late idle Pamphlet.</p>
+            <p n="1">1. Whereas he boldly vaunts of his <hi>Loimologia;</hi> I assert there is nothing in it (I mean worthy) that is not taken out of my <hi>Theomagia,</hi> or <hi>Temple of Wisdom,</hi> in the second and fourth p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rts thereof, as any that please may read: but I have not (I confess) taught him to throw dirt in the face of Physicians, ei<g ref="char:EOLhyphen"/>ther there or any where else; that must therefore be an impu<g ref="char:EOLhyphen"/>dent Addition of his own. And whereas he entitles that Pam<g ref="char:EOLhyphen"/>phlet of Plagiarism, <hi>Loimologia;</hi> and Englishes it, a Consolato<g ref="char:EOLhyphen"/>ry Advice, <hi>&amp;c.</hi> [which is right Bear-garden translation:] He might more truely have called it, Ἀπταλογά, or a delusory de<g ref="char:EOLhyphen"/>vice; his impudent aim therein, being onely to pick up a few beggarly pence out of the Pockets of poor people, by perswa<g ref="char:EOLhyphen"/>ding them that he is more knowing then a grave and long conti<g ref="char:EOLhyphen"/>nued Society of Learned and experienced men in the Art of Me<g ref="char:EOLhyphen"/>dicine: never all this while considering how impossible it is in reason, for a pittiful Dwarf to throw off a Giants Cap.</p>
+            <p n="2">2. For his commending of his own Antidotes and Preserva<g ref="char:EOLhyphen"/>tives, <hi>&amp;c.</hi> I would fain know of him, if there be so much vertue and power in them, and this by him understood; What is the rea<g ref="char:EOLhyphen"/>son that himself did not prove the truth thereof, in the fortify<g ref="char:EOLhyphen"/>ing of his own Phlegmatique body, before he adventured to dissect the Corps of a Patient (that as I heat, <hi>non obstante</hi> his quacking skill, dyed under his Butcherly hands) but was forc'd (like other ignorants) from that undertaking, to fall a Sacrifice to sickness, and to his own confidence and shame together?—If he knew the preparation of my <hi>Tinctura Polycaea</hi> truely, I grant he might perform admirable Cures thereby; but I deny
+<pb n="4" facs="tcp:204390:4"/>that he understandeth it; for had he so done, himself should ne<g ref="char:EOLhyphen"/>ver have yeilded to sickness no more then I, though he had been dissecting Pestilential bodies a year together.</p>
+            <p>The true <hi>Tinctura Polycaea,</hi> I have largely treated of in my <hi>Holy Guide,</hi> parts the second and third; and therein have given such real demonstrations of its true but incredible effects, that the like Medicine is not in the world as yet discovered, it going beyond the best preparation of my <hi>Rosie Crucian Pantarva;</hi> with which I have renewed the Youth of persons Aged, and brought a spring into the bones of such persons, that have been totally frost-bitten with age. But what do I mention these things to him, that understands no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Venus</hi> from a Hogg, one who is lit<g ref="char:EOLhyphen"/>tle better then a Thief of the second head, that will be twatling and pratling of <hi>Robin hood,</hi> though he yet never shot in his Bow?</p>
+            <p n="3">3. Whereas this Posteriors of a true Physitian is grieved, that some of the Colledge left the City in this Pestilential time; I shall tell him, that they did no more now then in other Sum<g ref="char:EOLhyphen"/>mers they were wont; they being persons of eminent Fortune, as well as Learning. And without doubt this Paltry Fellow would have done so too, had he had any abiding place to have flown unto; but having none, was forced to tarry in his Garret neer <hi>Aldgate,</hi> cracking of Nuts in his two-penny Crucible, and venting his malice against those worthy persons, many of which would scorn to accept him for their Groom: perhaps his abode there was one main reason that the Bills of that Parish increased to so vast numbers. And yet this brain-sick Fellow cannot be quiet, but like the tail-less Fox, is angry that those Learned Phy<g ref="char:EOLhyphen"/>sitians are not as bare and beggarly as himself.</p>
+            <p n="4">4. For his boasting profanely of <hi>Helmonts</hi> name, I must tell him, that <hi>Helmont</hi> may be somewhat to eat for ought he know<g ref="char:EOLhyphen"/>eth of him. <hi>Helmont</hi> was a worthy Learned Person, and of the first Order of the <hi>Rosie-crucians,</hi> and not a pitiful Quack like <hi>Thomson.</hi> But see more of <hi>Helmont</hi> in my <hi>Harmony of the World,</hi> my <hi>Rosie-crucian Axiomata,</hi> and the second part of my <hi>Wisemans Crown.</hi>
+            </p>
+            <p n="5">5. For his impudent challenge to the <hi>Galenists,</hi> to take a por<g ref="char:EOLhyphen"/>tion of the corruption of a Plague-sore inwardly: I answer, That it is beneath a General of an Army to play at Cudgels; or else
+<pb n="5" facs="tcp:204390:4"/>his impudence might be answered. But what is there in his challenge more, then if an impudent Attorney should challenge a Lord Chief Justice to moot with him? or a Junior Sophi<g ref="char:EOLhyphen"/>ster to go about to mate a Governour of a Castle or City in the <hi>Politiques?</hi> would not the one deserve the Fleet, and the other the Stocks? surely yes.—But to pass this, I would advise <hi>G.T.</hi> to propose his impudent desires to some of his Brethren the Common Mountebanks; with whom <hi>(sine dubio)</hi> his motion may finde acceptance: but he had best bē certain of his Anti<g ref="char:EOLhyphen"/>dote, lest the tryal prove as dangerous to him, as did his pre<g ref="char:EOLhyphen"/>sumptuous dissecting of the Corps of his dead Patient.</p>
+            <p>Besides, I must tell him that the matter he moulds into a challenge, hath nothing of wonder or danger in it at all, except<g ref="char:EOLhyphen"/>ing the unlucky ingredient of his own frontless impudence: For who knoweth not that the Ichorous Venome he mentioneth is of humane Essence? how then can it be dangerous? Fulsome we allow it, but not Fatal; nor any more hurtful, then Maggots in Nuts, or Mites in Cheese. Nay, I am ap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to believe <hi>G.T.</hi> is of the same opinion also, and probably makes it a principal part of his Dyet; and that may be one reason he is so subject to the Glanders, as is plain by his so resolute slinging about his filth, that he careth not into whose face it lighteth: But every man knowes, that he which is impudent, must needs be a Here<g ref="char:EOLhyphen"/>tique in good manners. I will not charge <hi>G.T.</hi> as guilty of so much knowledge in Chymistry, as to understand what <hi>Helmonts Archaeus</hi> means, or what my <hi>Gamahe</hi>'s signifie: if he have a minde to inform his judgement herein, let him read my <hi>Elhava<g ref="char:EOLhyphen"/>reuna.</hi>—In the interim, I shall make this Anti-challenge to him, <hi>viz.</hi>—to take ten drops of <hi>Aqua Heydoniana,</hi> and my self will take double the quantity; and let him take his Anti<g ref="char:EOLhyphen"/>dote, and I will take none at all: (for he is no true Chymist, whose body is not always prepared) and then let the World judge who comes neerest the Elixar, a Quack, or a true Chymist! <hi>Thomson</hi> or <hi>Heydon!</hi>
+            </p>
+            <p n="6">6. For his abusing the late Lord Mayor, because he did not employ his Quack-ship; I see not but so gross a piece of impu<g ref="char:EOLhyphen"/>dence and daring ought to be requited by the Beadle of <hi>Bride<g ref="char:EOLhyphen"/>well;</hi> whose chastizing hand might soon let out that corrupt hu<g ref="char:EOLhyphen"/>mour, that irritates his Frenzy to so great a height, that not on<g ref="char:EOLhyphen"/>ly
+<pb n="6" facs="tcp:204390:5"/>a Learn'd Colledge, but Magistracy it self must be confronted by it.</p>
+            <p n="7">7. For his enumerating several disgraceful epithets together, as Wizard, Figure-caster, <hi>&amp;c.</hi> since he makes no particular ap<g ref="char:EOLhyphen"/>plication of them, I shall not presume to dive into his m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>licious thoughts about them: Howbeit, I must tell him he hath done but churl-like, in inviting Guests, and making only a Feast for himself. And for that particular Predicter he idly hints at, if he mean thereby any one that studies Astrology; I tell him, the Stars shall shine, and their Studies be honoured, while such Vermine as <hi>Thomson</hi> shall be scorn'd both of God and man. But why do I interest my self in anothers quarrel? that Pre<g ref="char:EOLhyphen"/>dicter (whoever he be) if at least he deserves that appellation) is certainly able to vindicate himself from this malicous Fellows <hi>Scomma</hi>'s, and will so without doubt, if the thoughts of an <hi>im<g ref="char:EOLhyphen"/>par congressus</hi> prevent not.</p>
+            <p>Lastly, For the Conjunction of <hi>Mercury</hi> with <hi>Sol</hi> and <hi>Luna,</hi> as he simply mentioneth, I must be content to guess at what he intends, as himself doth at the Distempers of his deluded Pati<g ref="char:EOLhyphen"/>ents. He must thereby mean either a real, or Metaphorical Con<g ref="char:EOLhyphen"/>junction; if a real one, let him shew it us in his Ephemerides, if he can; there having been hardly such a Conjunction (perhaps) since he first saw the <hi>Expansium</hi> of light: but we will allow him capable of coyning crotchers and conceits in Astronomy, as well as in Chymistry. But if he mean a Metaphorical Conjunction, and thereby allude to the late Villanous Theft committed upon the Treasury of the Colledge; may it not reasonably be pre<g ref="char:EOLhyphen"/>sumed, that himself had a hand in the Robbery? I am sure such an impudent boasting may well suggest to those Learned loosers a jealousie thereof; from whence they might (upon suspition at least) make him answer their Indictment at a Bar of Justice, a<g ref="char:EOLhyphen"/>mongst his Fellow impudents, and perhaps <hi>Quondam</hi> Com<g ref="char:EOLhyphen"/>panions.</p>
+            <closer>
+               <dateline>From our Virgin Palace in <hi>Hermeupolis,</hi>
+                  <date>
+                     <hi>Die ♂ Nov.</hi> 21.10 h. P.M. 1665.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204390:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
